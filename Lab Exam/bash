@@ -1,0 +1,13 @@
+Basic Commands in bash:
+	bc: to do basic calculation
+		echo "3*2.5"|bc
+
+	echo -n: Dont output trailing new line
+	-f: to check if file
+	-d: to check if directory
+	echo abc >> xyz.txt: appends abc to file xyz.txt
+		
+	var=$(command)
+	var=$((arithmetic))
+	$#: gives no. of arguments
+	declare -a var : creates array

@@ -1,0 +1,25 @@
+Latex:
+
+Packages:
+amsmath: aligning maths equations
+verbatim:
+lstlisting:
+lipsum
+
+
+\noindent{}: for no indent
+\texttt{}: typewriter font
+
+
+
+
+Table:
+\begin{tabular}{|c|c|c|c|}
+  \hline
+   & & & \\
+  \hline
+   & & & \\
+  \hline
+   & & & \\
+  \hline
+\end{tabular}
